@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iphone 13 Pro",
+            "brand": "apple",
+            "price": "999",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-family-hero?wid=470&hei=556&fmt=png-alpha&.v=163122022100"
+        },
+        {
+            "id": 2,
+            "name": "iphone 12",
+            "brand": "apple",
+            "price": "699",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-black-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1604343702000"
+        },
+        {
+            "id": 3,
+            "name": "iphone 11",
+            "brand": "apple",
+            "price": "499",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-select-2019-family?wid=441&hei=529&fmt=jpeg&qlt=95&.v=1567022175704"
+        },
+        {
+            "id": 4,
+            "name": "iphone SE",
+            "brand": "apple",
+            "price": "399",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-red-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1586574260319"
+        },
+        {
+            "id": 5,
+            "name": "Ipad Pro",
+            "brand": "apple",
+            "price": "799",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-11-select-cell-spacegray-202104?wid=470&hei=556&fmt=p-jpg&qlt=95&.v=1617124703000"
+        },
+        {
+            "id": 6,
+            "name": "MacBook Pro 13",
+            "brand": "apple",
+            "price": "1,299",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mac-card-40-macbook-pro-13-202108?wid=400&hei=500&fmt=p-jpg&qlt=95&.v=1625868246000"
+        }
+        ]
+}
